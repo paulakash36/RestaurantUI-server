@@ -1,4 +1,24 @@
 {
+  "featured": [
+    {
+      "type": "dish",
+      "name": "Uthappizza",
+      "image": "images/uthappizza.png",
+      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+    },
+    {
+      "type": "promotion",
+      "name": "Weekend Grand Buffet",
+      "image": "images/buffet.png",
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    },
+    {
+      "type": "leader",
+      "name": "Alberto Somayya",
+      "image": "images/alberto.png",
+      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+    }
+  ],
   "dishes": [
     {
       "id": "0",
@@ -250,9 +270,19 @@
       "contacttype": "Tel",
       "message": "asDASd",
       "id": 2
+    },
+    {
+      "firstname": "asd",
+      "lastname": "sda",
+      "telnum": "123123",
+      "email": "afasdf@gmail.com",
+      "agree": true,
+      "contacttype": "Email",
+      "message": "asdsadw",
+      "id": 3
     }
   ],
   "image": {
-    "logo" : "images/logo.png"
+    "logo": "images/logo.png"
   }
 }
